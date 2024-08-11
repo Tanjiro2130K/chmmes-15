@@ -12,32 +12,32 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 //owmner v card
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.ytname = "YT: Anime⛩️Paradise" //ur yt chanel name
+global.socialm = "GitHub: Tiku-Saikia" //ur github or insta name
+global.location = "India, Assam, Jorhat" //ur location
 
 //new
-global.botname = 'Cheems Bot MD V15' //ur bot name
-global.ownernumber = ['916909137213'] //ur owner number, dont add more than one
-global.ownername = '🦄드림 가이 Xeon' //ur owner name
-global.websitex = "https://youtu.be/Ljt4MaHq1LM"
-global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
-global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD13' //script link
-global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n+916909137213"
-global.creator = "916909137213@s.whatsapp.net"
-global.xprefix = '.'
-global.premium = ["916909137213"] // Premium User
+global.botname = 'Giyu-Tomioka🌸'  // ur bot name
+global.ownernumber = '917086726371,917086810603' //ur owner number
+global.ownername = 'TIKU✨🦋' //ur owner name
+global.websitex = "https://youtube.com/@animeparadise9503?si=S8p5AwyutpL3H47s"
+global.wagc = "https://chat.whatsapp.com/DQGWzesuDbz6Qq27pGyWlY"
+global.themeemoji = '⛩️'
+global.wm = "TIKU_BOTS"
+global.botscript = 'PRIVATE' //script link
+global.packname = "👾 Handcrafted for you"
+global.author = "By Giyu-Tomioka🌸"
+global.creator = "917086726371@s.whatsapp.net"
+global.xprefix = '#'
+global.premium = ["917086726371","917086810603"] // Premium User
 
 //bot sett
 global.typemenu = 'v12' // menu type 'v1' => 'v12'
 global.typereply = 'v4' // reply type 'v1' => 'v4'
-global.autoblocknumber = '92' //set autoblock country code
+global.autoblocknumber = '' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
 
-global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
+global.listv = ['💮','🌀','🪶','💈','🌟','🧧','💠','🔖','🥢','🤖','🀄','🃏','🍥','🍀','🪭','🎍','🍂','📚','👒','🌊','🛍️']
 global.tempatDB = 'database.json'
 
 global.limit = {
